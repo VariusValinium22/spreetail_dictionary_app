@@ -1,4 +1,5 @@
 # spreetail_dictionary_app
+Finished project found in spreetail_dictionary_app.py file
 
 	1. Project title: Spreetail Dictionary Console App: Python functions
 	
